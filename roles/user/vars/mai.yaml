@@ -1,1 +1,2 @@
 SPECIFICA_VARS: specific-values
+REDIS_HOST: redis.amudalapalli.shop
