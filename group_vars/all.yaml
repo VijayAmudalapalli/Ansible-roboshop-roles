@@ -3,3 +3,5 @@ REDIS_HOST: redis.amudalapalli.shop
 CATALOGUE_HOST: catalogue.amudalapalli.shop
 CART_HOST: cart.amudalapalli.shop
 MYSQL_HOST: mysql.amudalapalli.shop
+USER_HOST: user.amudalapalli.shop
+RABBITMQ_HOST: rabbitmq.amudalapalli.shop
