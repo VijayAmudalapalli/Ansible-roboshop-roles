@@ -5,3 +5,5 @@ CART_HOST: cart.amudalapalli.shop
 MYSQL_HOST: mysql.amudalapalli.shop
 USER_HOST: user.amudalapalli.shop
 RABBITMQ_HOST: rabbitmq.amudalapalli.shop
+SHIPPING_HOST: shipping.amudalapalli.shop
+PAYMENT_HOST: payment.amudalapalli.shop
